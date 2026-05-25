@@ -1,0 +1,13 @@
+{
+  "name": "Murmur — Voice Notes",
+  "short_name": "Murmur",
+  "description": "Capture notes by speaking. Organized by subject and date.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf7f2",
+  "theme_color": "#0f0e0c",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
